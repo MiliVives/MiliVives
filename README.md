@@ -19,7 +19,7 @@ Computer Scientist (Universidad Nacional del Sur) based in Bahía Blanca, Argent
 ---
 
 📊 GitHub Stats
-<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiliVives&show_icons=true&theme=default" alt="Mili's GitHub Stats" /> <img height="165" src="https://streak-stats.demolab.com?user=MiliVives&theme=default" alt="Mili's GitHub Streak" /> </p>
+<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiliVives&show_icons=true&theme=default" alt="Mili's GitHub Stats" /> <img height="165" src="https://streak-stats.demolab.com?user=MiliVives&theme=default" alt="" /> </p>
 
 ---
 
